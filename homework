@@ -1,0 +1,7 @@
+# lesson1
+We learned about the history of Android and the tools we will use to develop Android applications and
+how to install them on our windows machines. We alos learned how to connect an Android device to the Studio 
+and use it for debugging our application.
+
+We got to see a simple Demo appliction developed by the professor whic included a GUI 
+and touch events and a simple count down timer with sounds playing in response to some events.
